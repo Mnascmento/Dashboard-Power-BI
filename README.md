@@ -1,8 +1,11 @@
 📊 Dashboard Power BI
 
+
 📌 Descrição do Projeto
 
 Este projeto consiste em um dashboard desenvolvido no Power BI, focado no setor de compras de uma empresa. O objetivo principal é proporcionar uma visão detalhada dos gastos ao longo do ano, destacando os produtos mais adquiridos, os fornecedores mais relevantes e a demanda por região.
+
+
 
 ✨ Principais Funcionalidades
 
@@ -16,11 +19,15 @@ Este projeto consiste em um dashboard desenvolvido no Power BI, focado no setor 
 
 🌍 Visualização da demanda por região do Brasil.
 
+
+
 🛠️ Tecnologias Utilizadas
 
 Power BI para análise e visualização de dados;
 
 Excel para manipulação de dados;
+
+
 
 📂 Como Acessar o Dashboard
 
